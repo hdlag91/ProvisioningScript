@@ -1,7 +1,8 @@
 # GPS Provisioning Script
 
 ## Table of contents
-- [Download](#download)
+- [Summary](#sum)
+- [Script Download](#download)
 - [Requirements](#requirements)
 - [Mac Printer Setup](#printermac)
 - [Virtual Environment](#venv)
@@ -9,19 +10,25 @@
 - [References](#ref)
 - [Extras](#extra)
 
+<div id='sum'
+## Summary
+
+
 <div id='download'/>
 
 ## How to download the script
-- *ENTER* in Terminal
-  - `git clone https://github.com/tmeserve/ProvisioningScript.git`
+- Type or copy/paste the command into the Terminal 
+- `git clone https://github.com/tmeserve/ProvisioningScript.git`
 
 <div id='requirements'/>
 
 ## Prerequisites
 - Install [python 3.7.2](https://www.python.org/downloads/release/python-372/)
-  - To get help with installing python 3.7.2 on mac go to [here](https://www.youtube.com/watch?v=8BiYGIDCvvA)
-- _Pip usage_
-  - *ENTER* in Terminal
+  - Visual python 3.7.2 tutortial on mac [here](https://www.youtube.com/watch?v=8BiYGIDCvvA)
+  - Text version of python mac installation [here](https://blog.pyladies.com/Get-Your-Mac-Ready-for-Python-Programming/)
+ 
+ **Once Python is installed**
+ - Open up terminal
     - Change into the directory of the cloned repository
       - `cd user/yourName/ProvisioningScript-nocups`
       - Needs to be run in a [virtual environment](#venv)
