@@ -25,7 +25,7 @@
 ## Prerequisites
 - Install [python 3.7.2](https://www.python.org/downloads/release/python-372/)
   - Visual python 3.7.2 tutortial on mac [here](https://www.youtube.com/watch?v=8BiYGIDCvvA)
-  - Text version of python mac installation [here](https://blog.pyladies.com/Get-Your-Mac-Ready-for-Python-Programming/)
+  - Text version of python mac installation [here]()
  
  **Once Python is installed**
  - Open up terminal
