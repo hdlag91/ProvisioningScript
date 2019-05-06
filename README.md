@@ -13,9 +13,9 @@
 <div id='sum'/>
 
 ## Summary
-**WARNING: To avoid complications, it is highly recommended to run the provisioning script in a virtual environment**
+**WARNING: Only able to work on Mac currently and with Python 3.7.2. To avoid complications, it is highly recommended to run the provisioning script in a virtual environment and Python release 3.7.2**
 
-**Summary of Provisioning Script**
+Summary of Provisioning Script
 
 
 <div id='requirements'/>
@@ -75,7 +75,7 @@
 - Set the media Tracking to "Non-continuous (Web sensing)"
 - Choose "Set Default Options"
 
-**(Go back to the http://localhost:631/printers page**
+**Go back to the http://localhost:631/printers page**
 - Select on the name of the printer you just created
 - Under the "Administration" tab, click there and choose `Set Default Options`
 - Click "Printer Settings"
@@ -87,8 +87,9 @@ If more information is needed users can go [here](http://support.ordercup.com/su
 <div id='psetup'/>
 
 ## Printer Setup
+- Open Terminal
 - _Pip usage_
-  - *ENTER* in Terminal or CMD `pip3.7 install -r requirements.txt`
+- *ENTER* in Terminal or CMD `pip3.7 install -r requirements.txt`
 
 <div id='printerwin'/>
 
