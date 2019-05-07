@@ -101,7 +101,7 @@ If more information is needed users can go [here](http://support.ordercup.com/su
 ## Running the Script
 **For MAC**
 - Open Terminal 
-- Type the following: python3.7 runner.py
+- Type the following: `python3.7 runner.py`
 
 <div id='ref'/>
 
@@ -112,3 +112,4 @@ If more information is needed users can go [here](http://support.ordercup.com/su
 
 ## Extra Information
 - The COM Port is the name or location of the serial port.
+- for virutalenv setup: https://sourabhbajaj.com/mac-setup/Python/virtualenv.html
